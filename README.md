@@ -1,4 +1,4 @@
-#Diving into PHP with a Caesar Cipher Adventure! 🌐
+# Diving into PHP with a Caesar Cipher Adventure! 🌐
 
 ## Embarking on my journey into the vast world of PHP, I'm thrilled to share my initial exploration! 🌐🚀 In this venture, I've delved into the intricacies of cryptography, crafting a basic yet functional encryption and decryption mechanism. 🛠️💻 My focus has been on the time-tested Caesar cipher, a historical encryption method.
 
